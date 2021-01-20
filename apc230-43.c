@@ -2,7 +2,7 @@
  * apc230-43.c
  *
  *  Created on: 4 dic. 2019
- *      Author: Mati
+ *      Author: Matías López - Jesús López
  */
 
 #include "apc230-43.h"
