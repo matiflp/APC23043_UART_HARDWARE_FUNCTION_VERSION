@@ -27,7 +27,6 @@ int main(void)
     APC230_configureUART();
     APC230_interrupt();
 
-
     //Disable the GPIO power-on default high-impedance mode to activate previously configured port settings
     PMM_unlockLPM5();
 
